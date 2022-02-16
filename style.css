@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://cdn.britannica.com/36/22536-004-9855C103/Flag-Union-of-Soviet-Socialist-Republics.jpg");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading-div{
+    font-size: 80px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.song_div{
+    margin-left: 50px;
+}
